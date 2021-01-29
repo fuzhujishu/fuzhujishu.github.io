@@ -1,0 +1,92 @@
+[
+{
+	"uri": "http://www.fuzhu.tech/hearing/",
+	"title": "听障",
+	"tags": [],
+	"description": "",
+	"content": " 听障 关于听障的辅助技术，下分三节。\n由于大部分听障可以阅读文字，故首先介绍语音转文字技术。\n对于口语使用者，往往需要相应的语音增强类辅助功能。\n最后，对于不能使用以上技术的手语使用者，讨论手语相关辅助技术。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/physical/",
+	"title": "肢障",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/vision/",
+	"title": "视障",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/remote-mic/",
+	"title": "远程麦克风",
+	"tags": [],
+	"description": "",
+	"content": "iPhone 提供了 Live Listen 功能，可以将声音传送到 MFi 助听器或 airpods 系列耳机上。\n由于蓝牙传输距离有限，有时这一功能使用起来不见得比助听器直接听效果好多少。理论上如果讲话人直接手持 iPhone 的话效果最佳，但现在手机越做越大，很多时候并不现实。\n但可以给 iPhone 插上高灵敏度外置麦克风，这样的话有时候也可以收得不错的效果。\n曾经 iOS 上不能将 lightning 接口的麦克风收取的声音传送到 MFi 助听器，因为那时候 iOS 禁止同时使用 USB 音频设备和蓝牙音频设备。至少在最新的 iPhone 12 系列上，iOS 14 之后的版本已经解决了这个问题。现在使用外置麦克风来增强 iPhone 的 Live Listen 功能是完全可行的。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/mobile/mic/",
+	"title": "手机麦克风转文字",
+	"tags": [],
+	"description": "",
+	"content": " 系统内置功能 部分 Android 手机在安装 Android 10 以后的操作系统之后，会有一项 Live Transcribe 功能。\n专门 app  讯飞听见\n 讯飞语记\n 音书\n  "
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/",
+	"title": "手机",
+	"tags": [],
+	"description": "",
+	"content": "手机\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sign/",
+	"title": "手语使用者",
+	"tags": [],
+	"description": "",
+	"content": "本章讨论手语使用者所需要的技术。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/",
+	"title": "口语使用者",
+	"tags": [],
+	"description": "",
+	"content": "本章讨论口语使用者所使用的各类语音增强技术，\n下面按照不同平就来讨论。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/",
+	"title": "语音转文字",
+	"tags": [],
+	"description": "",
+	"content": "本节讨论不同平台上的语音转文字技术。首先讨论手机。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/mobile/",
+	"title": "手机",
+	"tags": [],
+	"description": "",
+	"content": " 概述 通用语音转文字技术 很遗憾的是，目前仍然没有一种办法可以保证应用于所有场合。在目前，从手机麦克风拾音的转文字技术应用最为广泛，不仅可以用于和人对话、开会速录，也可以用第二台手机为第一台手机提供字幕。\n手机内应用转文字 "
+},
+{
+	"uri": "http://www.fuzhu.tech/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/",
+	"title": "残障辅助技术指南",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
