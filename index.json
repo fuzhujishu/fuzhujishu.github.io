@@ -21,36 +21,36 @@
 	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
 },
 {
+	"uri": "http://www.fuzhu.tech/hearing/sound/hearing-aids/",
+	"title": "助听器",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "http://www.fuzhu.tech/hearing/text/mobile/mic/",
-	"title": "手机麦克风转文字",
+	"title": "如何将手机麦克风收到的声音转为文字",
 	"tags": [],
 	"description": "",
 	"content": " 使用手机麦克风收音并转为文字，在目前是对听障最有用的辅助技术之一。手机几乎随时随地都会携带，现今手机端的语音转文字技术也越来越发达，使得这种办法几乎可以用于任何场合。\n主要的限制有三点\n 无法对手机自身播放的音频进行转换 在一些场合，其它人会对听障使用手机转文字表示反感 在嘈杂的环境中效果不佳  目前有些手机自带免费的语音转文字功能，有些手机需要使用第三方 app，这些 app 往往是收费的。\n系统内置功能 部分 Android 手机在安装 Android 10 以后的操作系统之后，会有一项 Live Transcribe 功能。该功能支持中文和英文。使用该功能不需要联网，完全免费没有转录时间限制，本文作者认为它是目前最好的解决办法之一。\n专门 app 中文转录  讯飞听见\n 讯飞语记\n 音书\n  英文转录  Otter  其它方法 在以上专用工具都不能获得时，也可以使用以下方法曲线救国。\n翻译 app 可以使用各类翻译 app 进行语音转文字，不需要看翻译内容，只需要看识别出的原文。\n对于没有 Live Listen 功能的 iPhone 来说，自带翻译 app 是在不安装第三方 app 时的最好解决方案。\n语音输入法 最新手机一般都在出厂时安装了可以免费使用的语音输入法。也可以用它救急。\n但是语音输入法并非为语音转录设计，往往需要说话人刻意放慢语速，尽可能使用标准发音，才能获得较高识别率。\n"
-},
-{
-	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/",
-	"title": "手机",
-	"tags": [],
-	"description": "",
-	"content": "手机\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/text/",
 	"title": "语音转文字",
 	"tags": [],
 	"description": "",
-	"content": "本节讨论不同平台上的语音转文字技术。首先讨论手机。\n"
+	"content": "本节讨论不同平台上的语音转文字技术。首先讨论手机，因为这是目前最方便最普遍的语音转文字技术平台。然后再讨论使用场合相对狭窄一点的电话和电脑。\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/text/mobile/",
 	"title": "手机",
 	"tags": [],
 	"description": "",
-	"content": " 概述 通用语音转文字技术 很遗憾的是，目前仍然没有一种办法可以保证应用于所有场合。在目前，从手机麦克风拾音的转文字技术应用最为广泛，不仅可以用于和人对话、开会速录，也可以用第二台手机为第一台手机提供字幕。\n手机内应用转文字 "
+	"content": " 概述 本节讨论在手机和平板上使用的语音转文字技术。由于绝大部分平板电脑使用和手机相近的操作系统和软件，这里对于手机的讨论，绝大多数情况下也适用于平板。\n在手机上使用语音转文字，主要有两种场合。一种是用手机为其它音源提供字幕，一种是为手机自己内部播放的声音提供字幕。\n最后，因为使用手机打电话是听障中的一个普遍痛点，专门分为一节进行讨论。\n很遗憾的是，目前仍然没有一种简单好用的办法可以保证应用于所有场合。所以我们仍然不得不在不同场合使用不同的工具。\n通用语音转文字技术 在目前，从手机麦克风拾音的转文字技术应用最为广泛，不仅可以用于和人对话、开会速录，也可以用第二台手机为第一台手机提供字幕。\n对此的讨论详见 手机麦克风拾音转文字 一节\n手机内音频转文字 显然，对于手机本身播放的音频，用第二台手机/平板进行转录是非常不方便的。一些手机和 app 本身提供了字幕功能，无需借助第二台设备。\n对此的讨论详见 手机内音频转文字 一节\n打电话 打电话作为一种特别常见的需求，单独开设一节，而没有合并在 手机内音频转文字 当中。\n详见 打电话\n"
 },
 {
-	"uri": "http://www.fuzhu.tech/hearing/sound/hearing-aids/",
-	"title": "助听器",
+	"uri": "http://www.fuzhu.tech/hearing/sound/cochlear/",
+	"title": "人工耳蜗",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -63,11 +63,18 @@
 	"content": "本章讨论口语使用者所使用的各类语音增强技术，\n下面按照不同平就来讨论。\n"
 },
 {
-	"uri": "http://www.fuzhu.tech/hearing/sound/cochlear/",
-	"title": "人工耳蜗",
+	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/",
+	"title": "手机",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "手机\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/pc/",
+	"title": "电脑",
+	"tags": [],
+	"description": "",
+	"content": "电脑端将输出声音适配自己的听力损失有几种办法。\n一种是使用 Equalizer APO 之类的软件。\n另一种是使用调音台之类的硬件。\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/sound/other/remote-mic/",
@@ -82,6 +89,13 @@
 	"tags": [],
 	"description": "",
 	"content": "本节纵向串起电视、电话、远程麦克风在上述各设备上的使用\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/mobile/internal/",
+	"title": "各种手机内音频转文字的方案",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/text/phone/",

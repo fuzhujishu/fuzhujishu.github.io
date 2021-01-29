@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/text/mobile/mic/</loc>
-    <lastmod>2021-01-28T22:04:02-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/sound/hearing-aids/</loc>
+    <lastmod>2021-01-29T00:18:49-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/sound/mobile/</loc>
-    <lastmod>2021-01-28T21:53:23-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/text/mobile/mic/</loc>
+    <lastmod>2021-01-28T22:04:02-05:00</lastmod>
   </url>
   
   <url>
@@ -38,8 +38,8 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/sound/hearing-aids/</loc>
-    <lastmod>2021-01-29T00:18:49-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/sound/cochlear/</loc>
+    <lastmod>2021-01-29T00:23:12-05:00</lastmod>
   </url>
   
   <url>
@@ -48,8 +48,13 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/sound/cochlear/</loc>
-    <lastmod>2021-01-29T00:23:12-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/sound/mobile/</loc>
+    <lastmod>2021-01-28T21:53:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/pc/</loc>
+    <lastmod>2021-01-29T01:13:58-05:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +65,11 @@
   <url>
     <loc>http://www.fuzhu.tech/hearing/sound/other/</loc>
     <lastmod>2021-01-29T00:55:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/mobile/internal/</loc>
+    <lastmod>2021-01-29T10:08:26-05:00</lastmod>
   </url>
   
   <url>
