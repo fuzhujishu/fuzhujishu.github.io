@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/sound/mobile/remote-mic/</loc>
-    <lastmod>2021-01-28T22:23:47-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.fuzhu.tech/hearing/text/mobile/mic/</loc>
     <lastmod>2021-01-28T22:04:02-05:00</lastmod>
   </url>
@@ -33,8 +28,18 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/sign/</loc>
-    <lastmod>2021-01-28T21:51:29-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/text/</loc>
+    <lastmod>2021-01-28T21:50:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/mobile/</loc>
+    <lastmod>2021-01-28T21:24:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/hearing-aids/</loc>
+    <lastmod>2021-01-29T00:18:49-05:00</lastmod>
   </url>
   
   <url>
@@ -43,13 +48,58 @@
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/text/</loc>
-    <lastmod>2021-01-28T21:50:56-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/sound/cochlear/</loc>
+    <lastmod>2021-01-29T00:23:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fuzhu.tech/hearing/text/mobile/</loc>
-    <lastmod>2021-01-28T21:24:36-05:00</lastmod>
+    <loc>http://www.fuzhu.tech/hearing/sound/other/remote-mic/</loc>
+    <lastmod>2021-01-29T00:18:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/other/</loc>
+    <lastmod>2021-01-29T00:55:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/phone/</loc>
+    <lastmod>2021-01-29T01:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/other/phone/</loc>
+    <lastmod>2021-01-29T00:59:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/other/tv/</loc>
+    <lastmod>2021-01-29T00:56:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/tv/</loc>
+    <lastmod>2021-01-29T00:43:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/mobile/call/</loc>
+    <lastmod>2021-01-29T00:41:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/text/pc/</loc>
+    <lastmod>2021-01-29T00:25:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sound/mobile/remote-mic/</loc>
+    <lastmod>2021-01-28T22:23:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fuzhu.tech/hearing/sign/</loc>
+    <lastmod>2021-01-28T21:51:29-05:00</lastmod>
   </url>
   
   <url>

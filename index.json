@@ -21,18 +21,11 @@
 	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
 },
 {
-	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/remote-mic/",
-	"title": "远程麦克风",
-	"tags": [],
-	"description": "",
-	"content": "iPhone 提供了 Live Listen 功能，可以将声音传送到 MFi 助听器或 airpods 系列耳机上。\n由于蓝牙传输距离有限，有时这一功能使用起来不见得比助听器直接听效果好多少。理论上如果讲话人直接手持 iPhone 的话效果最佳，但现在手机越做越大，很多时候并不现实。\n但可以给 iPhone 插上高灵敏度外置麦克风，这样的话有时候也可以收得不错的效果。\n曾经 iOS 上不能将 lightning 接口的麦克风收取的声音传送到 MFi 助听器，因为那时候 iOS 禁止同时使用 USB 音频设备和蓝牙音频设备。至少在最新的 iPhone 12 系列上，iOS 14 之后的版本已经解决了这个问题。现在使用外置麦克风来增强 iPhone 的 Live Listen 功能是完全可行的。\n"
-},
-{
 	"uri": "http://www.fuzhu.tech/hearing/text/mobile/mic/",
 	"title": "手机麦克风转文字",
 	"tags": [],
 	"description": "",
-	"content": " 系统内置功能 部分 Android 手机在安装 Android 10 以后的操作系统之后，会有一项 Live Transcribe 功能。\n专门 app  讯飞听见\n 讯飞语记\n 音书\n  "
+	"content": " 使用手机麦克风收音并转为文字，在目前是对听障最有用的辅助技术之一。手机几乎随时随地都会携带，现今手机端的语音转文字技术也越来越发达，使得这种办法几乎可以用于任何场合。\n主要的限制有三点\n 无法对手机自身播放的音频进行转换 在一些场合，其它人会对听障使用手机转文字表示反感 在嘈杂的环境中效果不佳  目前有些手机自带免费的语音转文字功能，有些手机需要使用第三方 app，这些 app 往往是收费的。\n系统内置功能 部分 Android 手机在安装 Android 10 以后的操作系统之后，会有一项 Live Transcribe 功能。该功能支持中文和英文。使用该功能不需要联网，完全免费没有转录时间限制，本文作者认为它是目前最好的解决办法之一。\n专门 app 中文转录  讯飞听见\n 讯飞语记\n 音书\n  英文转录  Otter  其它方法 在以上专用工具都不能获得时，也可以使用以下方法曲线救国。\n翻译 app 可以使用各类翻译 app 进行语音转文字，不需要看翻译内容，只需要看识别出的原文。\n对于没有 Live Listen 功能的 iPhone 来说，自带翻译 app 是在不安装第三方 app 时的最好解决方案。\n语音输入法 最新手机一般都在出厂时安装了可以免费使用的语音输入法。也可以用它救急。\n但是语音输入法并非为语音转录设计，往往需要说话人刻意放慢语速，尽可能使用标准发音，才能获得较高识别率。\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/",
@@ -40,20 +33,6 @@
 	"tags": [],
 	"description": "",
 	"content": "手机\n"
-},
-{
-	"uri": "http://www.fuzhu.tech/hearing/sign/",
-	"title": "手语使用者",
-	"tags": [],
-	"description": "",
-	"content": "本章讨论手语使用者所需要的技术。\n"
-},
-{
-	"uri": "http://www.fuzhu.tech/hearing/sound/",
-	"title": "口语使用者",
-	"tags": [],
-	"description": "",
-	"content": "本章讨论口语使用者所使用的各类语音增强技术，\n下面按照不同平就来讨论。\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/hearing/text/",
@@ -68,6 +47,97 @@
 	"tags": [],
 	"description": "",
 	"content": " 概述 通用语音转文字技术 很遗憾的是，目前仍然没有一种办法可以保证应用于所有场合。在目前，从手机麦克风拾音的转文字技术应用最为广泛，不仅可以用于和人对话、开会速录，也可以用第二台手机为第一台手机提供字幕。\n手机内应用转文字 "
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/hearing-aids/",
+	"title": "助听器",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/",
+	"title": "口语使用者",
+	"tags": [],
+	"description": "",
+	"content": "本章讨论口语使用者所使用的各类语音增强技术，\n下面按照不同平就来讨论。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/cochlear/",
+	"title": "人工耳蜗",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/other/remote-mic/",
+	"title": "远程麦克风",
+	"tags": [],
+	"description": "",
+	"content": "本页汇总各种远程麦克风相关页面\n手机\n助听器\n耳蜗\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/other/",
+	"title": "其它",
+	"tags": [],
+	"description": "",
+	"content": "本节纵向串起电视、电话、远程麦克风在上述各设备上的使用\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/phone/",
+	"title": "固定电话",
+	"tags": [],
+	"description": "",
+	"content": "在美国可以使用带字幕的电话机，由 711 的打字员转为文字。\n在中国最好的办法是将电话免提后使用手机转文字。\n也可以使用侧录线接入手机进行转文字。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/other/phone/",
+	"title": "固定电话",
+	"tags": [],
+	"description": "",
+	"content": "带有 T 线圈的助听器可以一定程度提高通话清晰度。\n也可以使用电话侧录线，将音频发送到助听器上。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/other/tv/",
+	"title": "电视",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/tv/",
+	"title": "电视",
+	"tags": [],
+	"description": "",
+	"content": " 专门设备 今声优盒\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/mobile/call/",
+	"title": "打电话",
+	"tags": [],
+	"description": "",
+	"content": " 中国 联通王卡\n美国 711 专门 app InnoCaption\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/text/pc/",
+	"title": "电脑",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sound/mobile/remote-mic/",
+	"title": "远程麦克风",
+	"tags": [],
+	"description": "",
+	"content": "iPhone 提供了 Live Listen 功能，可以将声音传送到 MFi 助听器或 airpods 系列耳机上。\n由于蓝牙传输距离有限，有时这一功能使用起来不见得比助听器直接听效果好多少。理论上如果讲话人直接手持 iPhone 的话效果最佳，但现在手机越做越大，很多时候并不现实。\n但可以给 iPhone 插上高灵敏度外置麦克风，这样的话有时候也可以收得不错的效果。\n曾经 iOS 上不能将 lightning 接口的麦克风收取的声音传送到 MFi 助听器，因为那时候 iOS 禁止同时使用 USB 音频设备和蓝牙音频设备。至少在最新的 iPhone 12 系列上，iOS 14 之后的版本已经解决了这个问题。现在使用外置麦克风来增强 iPhone 的 Live Listen 功能是完全可行的。\n"
+},
+{
+	"uri": "http://www.fuzhu.tech/hearing/sign/",
+	"title": "手语使用者",
+	"tags": [],
+	"description": "",
+	"content": "本章讨论手语使用者所需要的技术。\n"
 },
 {
 	"uri": "http://www.fuzhu.tech/categories/",
