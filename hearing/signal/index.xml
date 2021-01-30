@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>声音信号转为其它信号 on 残障辅助技术指南</title>
+    <link>http://www.fuzhu.tech/hearing/signal/</link>
+    <description>Recent content in 声音信号转为其它信号 on 残障辅助技术指南</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 29 Jan 2021 21:00:42 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.fuzhu.tech/hearing/signal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
