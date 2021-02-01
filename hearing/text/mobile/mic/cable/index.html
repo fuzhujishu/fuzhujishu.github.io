@@ -12,19 +12,19 @@
     <title>如何使用有线方式连接用于转录文字的手机 :: 残障辅助技术指南</title>
 
     
-    <link href="/css/nucleus.css?1611981559" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1611981559" rel="stylesheet">
-    <link href="/css/hybrid.css?1611981559" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1611981559" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1611981559" rel="stylesheet">
-    <link href="/css/auto-complete.css?1611981560" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1611981560" rel="stylesheet">
-    <link href="/css/theme.css?1611981560" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1611981560" rel="stylesheet">
+    <link href="/css/nucleus.css?1612196751" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1612196751" rel="stylesheet">
+    <link href="/css/hybrid.css?1612196751" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1612196751" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1612196751" rel="stylesheet">
+    <link href="/css/auto-complete.css?1612196751" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1612196751" rel="stylesheet">
+    <link href="/css/theme.css?1612196751" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1612196751" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1611981560"></script>
+    <script src="/js/jquery-3.3.1.min.js?1612196751"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -69,14 +69,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1611981560"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1611981560"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1612196751"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1612196751"></script>
 <script type="text/javascript">
     
         var baseurl = "http:\/\/www.fuzhu.tech\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1611981560"></script>
+<script type="text/javascript" src="/js/search.js?1612196751"></script>
 
     
   </div>
@@ -911,6 +911,7 @@
 <li><a href="#一分二">一分二</a></li>
 <li><a href="#diy">DIY</a></li>
 </ul></li>
+<li><a href="#faq">FAQ</a></li>
 </ul>
 </nav>
     </div>
@@ -941,17 +942,19 @@
 
 <p>使用时，在第一台手机上播放声音，用音频侧录线连接到第二台手机，并在第二台手机上打开 <a href="/">语音转文字的 app</a> 即可。也可以选择将音频流<a href="#一分二">一分二</a>，聆听与字幕转录同时进行。</p>
 
+<p>如果使用这种音频线不能出字幕，可参考 <a href="#diy">FAQ</a> 一节排查原因。</p>
+
 <h1 id="音频侧录线">音频侧录线</h1>
 
 <p>用于这种用途的 3.5mm 音频接口侧录线有很多种名称。比如说 音书 就叫它“字幕音频线”。</p>
 
-<p>这种线的原理非常简单。它有两头，输入端接播放音频的设备，输出端接用于提供字幕的手机。它将输入端设备的耳机/扬声器的音频电平连接到输出端设备的麦克风接口上。</p>
+<p>这种线的原理非常简单。它有两头，一头接播放音频的设备（下文称音源侧），一头接用于提供字幕的手机（我们称字幕侧）。它将音源侧的耳机/扬声器的音频电平连接到字幕侧的麦克风接口上。</p>
 
 <p>因此，虽然外观相似，但最常见的音频对录线是<strong>不能</strong>用于这种用途的，因为它们没有反接耳机线和麦克风线。</p>
 
 <h2 id="没有耳机接口怎么办">没有耳机接口怎么办</h2>
 
-<p>一般可以使用厂商或第三方提供的 USB 口转 3.5mm 音频接口转接线（或者叫 USB 声卡）。</p>
+<p>一般可以使用厂商或第三方提供的 USB/lightning 口转 3.5mm 音频接口转接线（或者叫 USB 声卡）。</p>
 
 
 <div class="expand">
@@ -992,9 +995,9 @@
     	</span>
     </div>
     <div class="expand-content" style="display: none;">
-        <p>很遗憾的是，截止到 iOS 14，仍然蓝牙音频仍然不能 USB 音频或内置 3.5mm 同时使用。也就是说，目前 iPhone <strong>不可以</strong>实现此功能。</p>
+        <p>很遗憾的是，截止到 iOS 14，仍然蓝牙音频仍然不能与 USB 音频或内置 3.5mm 同时使用。也就是说，目前 iPhone <strong>不可以</strong>实现此功能。</p>
 
-<p>Android 平台作者没有测试过，希望测试过的网友补充。</p>
+<p>Android 平台我们没有做全面的测试。已知部分华为手机无法同时使用有线和蓝牙。</p>
 
     </div>
 </div>
@@ -1028,6 +1031,19 @@
 
     </div>
 </div>
+
+<h1 id="faq">FAQ</h1>
+
+<p>接上线之后，无法出字幕怎么办？</p>
+
+<p>请按如下顺序逐个排查原因。</p>
+
+<ol>
+<li>是否接反了？侧录线的两头必须按照说明插，不能将插字幕侧的插头插到音源侧。如果是这种情况，请掉换线的两头重新插。</li>
+<li>有一些手机和 USB 声卡会检测输出阻抗，拒绝输出声音给耳机以外的设备。这种情况请使用一分二线，并先插上耳机，确保耳机可以出声音，再插上字幕侧手机。顺序不可颠倒。如果阻抗合适的话，也可以用助听器/耳蜗的 streamer 代替耳机。</li>
+<li>有万用表的话，可以测试侧录线各端口是否导通，以排除接触不良、线材断裂等问题。</li>
+<li>对于比较古老的手机型号或者水货手机，可能会遇到上文所述的 OMTP 和 CTIA 的兼容问题。对此，可以选择 <a href="#diy">DIY</a> 一根线，或者为字幕侧的手机买一个带有麦克风支持的 USB 声卡。</li>
+</ol>
 
 
 <footer class="footline">
@@ -1491,19 +1507,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1611981560"></script>
-    <script src="/js/perfect-scrollbar.min.js?1611981560"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1611981560"></script>
-    <script src="/js/jquery.sticky.js?1611981560"></script>
-    <script src="/js/featherlight.min.js?1611981560"></script>
-    <script src="/js/highlight.pack.js?1611981560"></script>
+    <script src="/js/clipboard.min.js?1612196751"></script>
+    <script src="/js/perfect-scrollbar.min.js?1612196751"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1612196751"></script>
+    <script src="/js/jquery.sticky.js?1612196751"></script>
+    <script src="/js/featherlight.min.js?1612196751"></script>
+    <script src="/js/highlight.pack.js?1612196751"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1611981560"></script>
-    <script src="/js/learn.js?1611981560"></script>
-    <script src="/js/hugo-learn.js?1611981560"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1612196751"></script>
+    <script src="/js/learn.js?1612196751"></script>
+    <script src="/js/hugo-learn.js?1612196751"></script>
     
         
-            <script src="/mermaid/mermaid.js?1611981560"></script>
+            <script src="/mermaid/mermaid.js?1612196751"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });
